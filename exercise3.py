@@ -1,4 +1,4 @@
-lista_palavras = ["Versão 7", "sdasajj", "asaja", "nnafas", "sdajjjj"]
+lista_palavras = ["NEW ONE YEAR", "Versão 8", "sdasajj", "asaja", "nnafas", "sdajjjj"]
 
 for palavra in lista_palavras:
     if len(palavra) > 5:
